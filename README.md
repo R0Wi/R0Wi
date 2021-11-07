@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (3 weeks ago)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 weeks ago)
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (1 month ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 month ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (1 month ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (2 months ago)
@@ -28,32 +28,31 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 1 week ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.22.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.22.2), 3 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 2 weeks ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.22.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.22.2), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([21.0.4](https://github.com/nextcloud/files_fulltextsearch/releases/tag/21.0.4), 2 months ago) - 🔍 Index the content of your files
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([v7.8.0](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/v7.8.0), 9 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([v7.8.0](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/v7.8.0), 10 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [dotnet/samples](https://github.com/dotnet/samples) ([241566](https://github.com/dotnet/samples/releases/tag/241566), 11 months ago) - Sample code referenced by the .NET documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.3](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.3), 1 year ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
-- [R0Wi/github-action-testrepo](https://github.com/R0Wi/github-action-testrepo) ([v0.0.4](https://github.com/R0Wi/github-action-testrepo/releases/tag/v0.0.4), 1 year ago) - Testrepository for testing various Github actions
 - [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) ([186179](https://github.com/dotnet/machinelearning-samples/releases/tag/186179), 1 year ago) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable22] Accept results with ocrmypdf exit code 0](https://github.com/R0Wi/workflow_ocr/pull/70) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [Accept results with ocrmypdf exit code 0](https://github.com/R0Wi/workflow_ocr/pull/69) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
-- [Exclude unused content field for better search performance](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/171) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (4 weeks ago)
+- [[Backport stable22] Accept results with ocrmypdf exit code 0](https://github.com/R0Wi/workflow_ocr/pull/70) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
+- [Accept results with ocrmypdf exit code 0](https://github.com/R0Wi/workflow_ocr/pull/69) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
+- [Exclude unused content field for better search performance](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/171) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (1 month ago)
 - [List php extensions](https://github.com/nextcloud/serverinfo/pull/329) on [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) (1 month ago)
 - [Don&#39;t log full stacktrace if generateDocument fails](https://github.com/nextcloud/files_fulltextsearch/pull/139) on [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) (1 month ago)
 - [Add php APCu hint to command line based updater](https://github.com/nextcloud/documentation/pull/7136) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (1 month ago)
 - [Fix docs closing #7](https://github.com/R0Wi/nextcloud-appstore-push-action/pull/8) on [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) (2 months ago)
 - [Use IRuleMatcher getFlows (closes #60)](https://github.com/R0Wi/workflow_ocr/pull/61) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 months ago)
 - [NC22 compliant](https://github.com/nextcloud/files_photospheres/pull/80) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
-- [NC22 compliant](https://github.com/R0Wi/workflow_ocr/pull/59) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 months ago)
+- [NC22 compliant](https://github.com/R0Wi/workflow_ocr/pull/59) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (6 days ago)
-- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.  (6 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 week ago)
+- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.  (1 week ago)
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose &amp; docker-machine, for win/mac/linux and native docker in c# (1 month ago)
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 (3 months ago)
 - [lathoub/Arduino-BLE-MIDI](https://github.com/lathoub/Arduino-BLE-MIDI) - MIDI over Bluetooth Low Energy (BLE-MIDI) 1.0 for Arduino (3 months ago)
