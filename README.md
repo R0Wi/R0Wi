@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (5 days ago)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 weeks ago)
-- [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (3 weeks ago)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (1 week ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 weeks ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (3 weeks ago)
+- [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (1 month ago)
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (2 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 months ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (4 months ago)
 - [R0Wi/Arduino-Midi-Taptempo](https://github.com/R0Wi/Arduino-Midi-Taptempo) -  (4 months ago)
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation (4 months ago)
-- [R0Wi/Arduino-ESP32-Midi-BLE-Proxy](https://github.com/R0Wi/Arduino-ESP32-Midi-BLE-Proxy) -  (4 months ago)
+- [R0Wi/Arduino-ESP32-Midi-BLE-Proxy](https://github.com/R0Wi/Arduino-ESP32-Midi-BLE-Proxy) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,42 +28,42 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([23.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/23.0.0), 4 days ago) - 🔍 Index the content of your files
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 5 days ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.23.1](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.23.1), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.23.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.23.0), 2 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 1 month ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
+- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([23.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/23.0.0), 1 week ago) - 🔍 Index the content of your files
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 1 week ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.23.1](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.23.1), 2 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.23.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.23.0), 3 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 2 months ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 - [dotnet/samples](https://github.com/dotnet/samples) ([241566](https://github.com/dotnet/samples/releases/tag/241566), 1 year ago) - Sample code referenced by the .NET documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.3](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.3), 1 year ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) ([186179](https://github.com/dotnet/machinelearning-samples/releases/tag/186179), 1 year ago) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable23] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/82) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [[Backport stable22] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/81) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/80) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [NC23 compat](https://github.com/R0Wi/workflow_ocr/pull/78) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
-- [NC23 compat](https://github.com/nextcloud/files_photospheres/pull/82) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
-- [[Backport stable22] Create flows with tag events #72](https://github.com/R0Wi/workflow_ocr/pull/77) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [Document the XDEBUG_CLIENT_HOST env variable](https://github.com/thecodingmachine/docker-images-php/pull/276) on [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) (3 weeks ago)
-- [Create flows with tag events #72](https://github.com/R0Wi/workflow_ocr/pull/74) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
+- [Fail authenticate if credentialInput is not of type UserCredentialModel](https://github.com/keycloak/keycloak/pull/9336) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (3 days ago)
+- [[Backport stable23] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/82) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
+- [[Backport stable22] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/81) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
+- [Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/80) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
+- [NC23 compat](https://github.com/R0Wi/workflow_ocr/pull/78) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
+- [NC23 compat](https://github.com/nextcloud/files_photospheres/pull/82) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 weeks ago)
+- [[Backport stable22] Create flows with tag events #72](https://github.com/R0Wi/workflow_ocr/pull/77) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
+- [Document the XDEBUG_CLIENT_HOST env variable](https://github.com/thecodingmachine/docker-images-php/pull/276) on [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) (1 month ago)
+- [Create flows with tag events #72](https://github.com/R0Wi/workflow_ocr/pull/74) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [Fix typo in exception message](https://github.com/keycloak/keycloak/pull/8831) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (1 month ago)
-- [[Backport stable22] Accept results with ocrmypdf exit code 0](https://github.com/R0Wi/workflow_ocr/pull/70) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (6 days ago)
-- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (1 week ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 month ago)
-- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.  (1 month ago)
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (1 week ago)
+- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (2 weeks ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 months ago)
+- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.  (2 months ago)
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose &amp; docker-machine, for win/mac/linux and native docker in c# (2 months ago)
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 (4 months ago)
-- [lathoub/Arduino-BLE-MIDI](https://github.com/lathoub/Arduino-BLE-MIDI) - MIDI over Bluetooth Low Energy (BLE-MIDI) 1.0 for Arduino (4 months ago)
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 (5 months ago)
+- [lathoub/Arduino-BLE-MIDI](https://github.com/lathoub/Arduino-BLE-MIDI) - MIDI over Bluetooth Low Energy (BLE-MIDI) 1.0 for Arduino (5 months ago)
 - [thebigg73/OpenSongTablet](https://github.com/thebigg73/OpenSongTablet) - Android port of OpenSong.
 
 Use your mobile device as a portable song book.
 
-Gareth Evans (4 months ago)
+Gareth Evans (5 months ago)
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more (5 months ago)
 - [awaescher/Fusion](https://github.com/awaescher/Fusion) - 🧰 A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) (5 months ago)
 
