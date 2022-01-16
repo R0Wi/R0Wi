@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (3 weeks ago)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (1 month ago)
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 month ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (1 month ago)
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (3 months ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 months ago)
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (4 months ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 months ago)
+- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (5 months ago)
 - [R0Wi/Arduino-Midi-Taptempo](https://github.com/R0Wi/Arduino-Midi-Taptempo) -  (5 months ago)
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation (5 months ago)
 - [R0Wi/Arduino-ESP32-Midi-BLE-Proxy](https://github.com/R0Wi/Arduino-ESP32-Midi-BLE-Proxy) -  (5 months ago)
@@ -28,10 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([23.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/23.0.0), 3 weeks ago) - 🔍 Index the content of your files
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 3 weeks ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
+- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([23.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/23.0.0), 1 month ago) - 🔍 Index the content of your files
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 1 month ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.23.1](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.23.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.23.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.23.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 2 months ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 - [dotnet/samples](https://github.com/dotnet/samples) ([241566](https://github.com/dotnet/samples/releases/tag/241566), 1 year ago) - Sample code referenced by the .NET documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.3](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.3), 1 year ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
@@ -39,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add language settings and global processor settings closes #76](https://github.com/R0Wi/workflow_ocr/pull/85) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 days ago)
-- [Fail authenticate if credentialInput is not of type UserCredentialModel](https://github.com/keycloak/keycloak/pull/9336) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (2 weeks ago)
+- [Add language settings and global processor settings closes #76](https://github.com/R0Wi/workflow_ocr/pull/85) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [Fail authenticate if credentialInput is not of type UserCredentialModel](https://github.com/keycloak/keycloak/pull/9336) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (3 weeks ago)
 - [[Backport stable23] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/82) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable22] Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/81) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [Do not accept empty OCRmyPDF results #79](https://github.com/R0Wi/workflow_ocr/pull/80) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
@@ -52,8 +51,9 @@
 
 #### ⭐ Recent Stars
 
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (3 weeks ago)
-- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (4 weeks ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (3 days ago)
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (1 month ago)
+- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (1 month ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 months ago)
 - [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.  (2 months ago)
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose &amp; docker-machine, for win/mac/linux and native docker in c# (3 months ago)
@@ -64,8 +64,7 @@
 Use your mobile device as a portable song book.
 
 Gareth Evans (5 months ago)
-- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more (5 months ago)
-- [awaescher/Fusion](https://github.com/awaescher/Fusion) - 🧰 A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) (6 months ago)
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more (6 months ago)
 
 #### 📫 How to reach me
 [ro.windey@gmail.com](mailto:ro.windey@gmailcom)
