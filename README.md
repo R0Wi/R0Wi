@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 week ago)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (4 weeks ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 weeks ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 weeks ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (2 months ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (3 months ago)
-- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (4 months ago)
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (5 months ago)
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) - 🔍 Index the content of your files (5 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (5 months ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (6 months ago)
@@ -28,9 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([0.10.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/0.10.1), 2 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([21.0.5](https://github.com/nextcloud/files_fulltextsearch/releases/tag/21.0.5), 4 days ago) - 🔍 Index the content of your files
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.23.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.23.2), 6 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([0.10.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/0.10.1), 1 week ago) - Automated nginx proxy for Docker containers using docker-gen
+- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([21.0.5](https://github.com/nextcloud/files_fulltextsearch/releases/tag/21.0.5), 1 week ago) - 🔍 Index the content of your files
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 2 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.0-rc.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.0-rc.1), 4 months ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 - [dotnet/samples](https://github.com/dotnet/samples) ([241566](https://github.com/dotnet/samples/releases/tag/241566), 1 year ago) - Sample code referenced by the .NET documentation
@@ -39,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable23] Bump follow-redirects from 1.14.5 to 1.14.8](https://github.com/R0Wi/workflow_ocr/pull/100) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [[Backport stable22] Bump follow-redirects from 1.14.5 to 1.14.8](https://github.com/R0Wi/workflow_ocr/pull/99) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [[Backport stable23] Bump node-fetch from 2.6.6 to 2.6.7](https://github.com/R0Wi/workflow_ocr/pull/98) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [[Backport stable22] Bump node-fetch from 2.6.6 to 2.6.7](https://github.com/R0Wi/workflow_ocr/pull/97) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [[Backport stable23] Bump url-parse from 1.5.3 to 1.5.7](https://github.com/R0Wi/workflow_ocr/pull/96) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [[Backport stable22] Bump url-parse from 1.5.3 to 1.5.7](https://github.com/R0Wi/workflow_ocr/pull/95) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
-- [Add container logs in case testcontainer exited unexpectedly](https://github.com/seitenwerke/seitenwerke-nginx-proxy/pull/10) on [seitenwerke/seitenwerke-nginx-proxy](https://github.com/seitenwerke/seitenwerke-nginx-proxy) (1 week ago)
-- [Add container logs in case testcontainer exited unexpectedly](https://github.com/nginx-proxy/nginx-proxy/pull/1895) on [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) (1 week ago)
-- [Backport#76 to stable22](https://github.com/R0Wi/workflow_ocr/pull/93) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [Backport#76 to stable23](https://github.com/R0Wi/workflow_ocr/pull/92) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable23] Bump url-parse from 1.5.7 to 1.5.10](https://github.com/R0Wi/workflow_ocr/pull/106) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
+- [[Backport stable22] Bump url-parse from 1.5.7 to 1.5.10](https://github.com/R0Wi/workflow_ocr/pull/105) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
+- [[Backport stable23] Bump prismjs from 1.25.0 to 1.27.0](https://github.com/R0Wi/workflow_ocr/pull/104) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
+- [[Backport stable22] Bump prismjs from 1.25.0 to 1.27.0](https://github.com/R0Wi/workflow_ocr/pull/103) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
+- [[Backport stable23] Bump follow-redirects from 1.14.5 to 1.14.8](https://github.com/R0Wi/workflow_ocr/pull/100) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable22] Bump follow-redirects from 1.14.5 to 1.14.8](https://github.com/R0Wi/workflow_ocr/pull/99) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable23] Bump node-fetch from 2.6.6 to 2.6.7](https://github.com/R0Wi/workflow_ocr/pull/98) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable22] Bump node-fetch from 2.6.6 to 2.6.7](https://github.com/R0Wi/workflow_ocr/pull/97) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable23] Bump url-parse from 1.5.3 to 1.5.7](https://github.com/R0Wi/workflow_ocr/pull/96) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable22] Bump url-parse from 1.5.3 to 1.5.7](https://github.com/R0Wi/workflow_ocr/pull/95) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
 
 #### ⭐ Recent Stars
 
