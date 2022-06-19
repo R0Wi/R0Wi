@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 weeks ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 months ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.23.3](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.23.3), 3 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.24.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.24.2), 1 day ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([24.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/24.0.0), 1 month ago) - 🔍 Index the content of your files
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 2 months ago) - Automated nginx proxy for Docker containers using docker-gen
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 2 months ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) ([v1.7.1](https://github.com/dotnet/machinelearning/releases/tag/v1.7.1), 3 months ago) - ML.NET is an open source and cross-platform machine learning framework for .NET.
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 5 months ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 6 months ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 6 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [dotnet/samples](https://github.com/dotnet/samples) ([241566](https://github.com/dotnet/samples/releases/tag/241566), 2 years ago) - Sample code referenced by the .NET documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.3](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.3), 2 years ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable23] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/124) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [[Backport stable24] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/123) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [[Backport stable24] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/122) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [[Backport stable23] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/121) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
-- [Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/120) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
+- [[Backport stable24] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/128) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [[Backport stable23] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/127) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/126) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [[Backport stable23] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/124) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
+- [[Backport stable24] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/123) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
+- [[Backport stable24] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/122) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
+- [[Backport stable23] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/121) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
+- [Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/120) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 weeks ago)
 - [[Backport stable23] Use uid from filepath (#116)](https://github.com/R0Wi/workflow_ocr/pull/118) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable24] Use uid from filepath](https://github.com/R0Wi/workflow_ocr/pull/117) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
-- [Use uid from filepath](https://github.com/R0Wi/workflow_ocr/pull/116) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
-- [Update photo-sphere-viewer.js to v4 backport stable23 (backport of #76)](https://github.com/nextcloud/files_photospheres/pull/89) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
-- [NC24 compat](https://github.com/nextcloud/files_photospheres/pull/88) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 
 #### ⭐ Recent Stars
 
