@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (4 months ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (6 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (6 months ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (7 months ago)
-- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (8 months ago)
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (8 months ago)
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. (9 months ago)
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (9 months ago)
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) - 🔍 Index the content of your files (9 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.24.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.24.2), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.24.3](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.24.3), 1 day ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([24.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/24.0.0), 1 month ago) - 🔍 Index the content of your files
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 2 months ago) - Automated nginx proxy for Docker containers using docker-gen
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 3 months ago) - Open Source Identity and Access Management For Modern Applications and Services
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable24] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/128) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [[Backport stable23] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/127) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
-- [Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/126) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable24] Fix dpi param](https://github.com/R0Wi/workflow_ocr/pull/134) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [[Backport stable23] Fix dpi param](https://github.com/R0Wi/workflow_ocr/pull/133) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [Fix dpi param](https://github.com/R0Wi/workflow_ocr/pull/132) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 day ago)
+- [[Backport stable24] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/128) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
+- [[Backport stable23] Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/127) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
+- [Implement --skip-text as default setting](https://github.com/R0Wi/workflow_ocr/pull/126) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
 - [[Backport stable23] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/124) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable24] Add image conversion](https://github.com/R0Wi/workflow_ocr/pull/123) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable24] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/122) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable23] Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/121) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
-- [Add chinese simplified](https://github.com/R0Wi/workflow_ocr/pull/120) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
-- [[Backport stable23] Use uid from filepath (#116)](https://github.com/R0Wi/workflow_ocr/pull/118) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
-- [[Backport stable24] Use uid from filepath](https://github.com/R0Wi/workflow_ocr/pull/117) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 
 #### ⭐ Recent Stars
 
