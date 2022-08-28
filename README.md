@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 week ago)
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (1 week ago)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 weeks ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 weeks ago)
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (2 weeks ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 weeks ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (4 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (6 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v6.0.0-beta.3](https://github.com/nextcloud/nextcloud-vue/releases/tag/v6.0.0-beta.3), 3 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.24.1](https://github.com/nextcloud/files_photospheres/releases/tag/v1.24.1), 1 week ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.21.0](https://github.com/nextcloud/android/releases/tag/stable-3.21.0), 1 week ago) - 📱 Nextcloud Android app
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([19.0.1](https://github.com/keycloak/keycloak/releases/tag/19.0.1), 3 weeks ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.21.1](https://github.com/nextcloud/android/releases/tag/stable-3.21.1), 2 days ago) - 📱 Nextcloud Android app
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v6.0.0-beta.4](https://github.com/nextcloud/nextcloud-vue/releases/tag/v6.0.0-beta.4), 5 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.24.1](https://github.com/nextcloud/files_photospheres/releases/tag/v1.24.1), 2 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([19.0.1](https://github.com/keycloak/keycloak/releases/tag/19.0.1), 1 month ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.24.4](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.24.4), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) ([24.0.0](https://github.com/nextcloud/files_fulltextsearch/releases/tag/24.0.0), 3 months ago) - 🔍 Index the content of your files
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 4 months ago) - Automated nginx proxy for Docker containers using docker-gen
@@ -41,12 +41,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable24] Don&#39;t hide fileslist when showing viewer closing #90](https://github.com/nextcloud/files_photospheres/pull/92) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
-- [Don&#39;t hide fileslist when showing viewer closing #90](https://github.com/nextcloud/files_photospheres/pull/91) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
-- [Add docs and tests for #2973](https://github.com/nextcloud/nextcloud-vue/pull/2990) on [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) (1 week ago)
-- [Implement feature #88](https://github.com/R0Wi/workflow_ocr/pull/143) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
-- [Add slk (Slovak) language (see #140)](https://github.com/R0Wi/workflow_ocr/pull/141) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (2 weeks ago)
-- [Show all tags inside `MultiselectTags`](https://github.com/nextcloud/nextcloud-vue/pull/2885) on [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) (3 weeks ago)
+- [[Backport stable24] Don&#39;t hide fileslist when showing viewer closing #90](https://github.com/nextcloud/files_photospheres/pull/92) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
+- [Don&#39;t hide fileslist when showing viewer closing #90](https://github.com/nextcloud/files_photospheres/pull/91) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
+- [Add docs and tests for #2973](https://github.com/nextcloud/nextcloud-vue/pull/2990) on [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) (2 weeks ago)
+- [Implement feature #88](https://github.com/R0Wi/workflow_ocr/pull/143) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
+- [Add slk (Slovak) language (see #140)](https://github.com/R0Wi/workflow_ocr/pull/141) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 weeks ago)
+- [Show all tags inside `MultiselectTags`](https://github.com/nextcloud/nextcloud-vue/pull/2885) on [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) (1 month ago)
 - [Use openjdk-11 in Devcontainer](https://github.com/nextcloud/android/pull/10542) on [nextcloud/android](https://github.com/nextcloud/android) (1 month ago)
 - [[Backport stable24] Add Estonian](https://github.com/R0Wi/workflow_ocr/pull/138) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
 - [[Backport stable23] Add Estonian](https://github.com/R0Wi/workflow_ocr/pull/137) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 month ago)
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (6 days ago)
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (1 week ago)
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (1 week ago)
-- [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups. (1 week ago)
-- [yangzhongke/Zack.EFCore.Batch](https://github.com/yangzhongke/Zack.EFCore.Batch) -  Deleting or Updating multiple records from a LINQ Query in a SQL statement without loading entities (2 weeks ago)
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (1 week ago)
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (2 weeks ago)
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (2 weeks ago)
+- [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups. (2 weeks ago)
+- [yangzhongke/Zack.EFCore.Batch](https://github.com/yangzhongke/Zack.EFCore.Batch) -  Deleting or Updating multiple records from a LINQ Query in a SQL statement without loading entities (3 weeks ago)
 - [janjoerke/vscode-jenkins-pipeline-linter-connector](https://github.com/janjoerke/vscode-jenkins-pipeline-linter-connector) -  (1 month ago)
 - [ChromiumDotNet/WebView2.DevTools.Dom](https://github.com/ChromiumDotNet/WebView2.DevTools.Dom) - WebView2 DevTools Dom simplifies DOM/javascript access (5 months ago)
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) -  :page_facing_up: Markdown to PDF converter (5 months ago)
