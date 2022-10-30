@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (4 days ago)
-- [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (4 days ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (4 days ago)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
+- [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (1 week ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 week ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (2 months ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (3 months ago)
@@ -28,32 +28,32 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.22.1](https://github.com/nextcloud/android/releases/tag/stable-3.22.1), 3 days ago) - 📱 Nextcloud Android app
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.0.1](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.0.1), 1 week ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.25.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.25.0), 2 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.25.0](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.25.0), 2 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 3 weeks ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.22.3-01](https://github.com/nextcloud/android/releases/tag/rc-3.22.3-01), 3 days ago) - 📱 Nextcloud Android app
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.0.1](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.0.1), 2 weeks ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.25.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.25.0), 3 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.25.0](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.25.0), 3 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 month ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 6 months ago) - Automated nginx proxy for Docker containers using docker-gen
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.6.1](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.6.1), 10 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 
 #### 🔨 My recent Pull Requests
 
-- [Make FORMAT parameter optional](https://github.com/cqse/teamscale-upload-action/pull/1) on [cqse/teamscale-upload-action](https://github.com/cqse/teamscale-upload-action) (3 days ago)
-- [[Backport stable24] [DEVOPS] Update checkout action to v3 (#155)](https://github.com/R0Wi/workflow_ocr/pull/159) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (3 days ago)
-- [[Backport stable24] [DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/98) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 days ago)
-- [[Backport stable25] [DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/97) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (4 days ago)
-- [[Backport stable25] [DEVOPS] Update checkout action to v3](https://github.com/R0Wi/workflow_ocr/pull/156) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 days ago)
-- [[DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/96) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (4 days ago)
-- [[DEVOPS] Update checkout action to v3](https://github.com/R0Wi/workflow_ocr/pull/155) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (4 days ago)
-- [Merge upstream](https://github.com/seitenwerke/seitenwerke-nginx-proxy/pull/39) on [seitenwerke/seitenwerke-nginx-proxy](https://github.com/seitenwerke/seitenwerke-nginx-proxy) (2 weeks ago)
-- [[Backport stable24] Add close button to viewer](https://github.com/nextcloud/files_photospheres/pull/95) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (4 weeks ago)
-- [Add close button to viewer](https://github.com/nextcloud/files_photospheres/pull/94) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (4 weeks ago)
+- [Implement #130](https://github.com/R0Wi/workflow_ocr/pull/160) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (6 days ago)
+- [Fix #22](https://github.com/nextcloud/files_photospheres/pull/99) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (6 days ago)
+- [Make FORMAT parameter optional](https://github.com/cqse/teamscale-upload-action/pull/1) on [cqse/teamscale-upload-action](https://github.com/cqse/teamscale-upload-action) (1 week ago)
+- [[Backport stable24] [DEVOPS] Update checkout action to v3 (#155)](https://github.com/R0Wi/workflow_ocr/pull/159) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[Backport stable24] [DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/98) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [[Backport stable25] [DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/97) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [[Backport stable25] [DEVOPS] Update checkout action to v3](https://github.com/R0Wi/workflow_ocr/pull/156) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [[DEVOPS] Update checkout action to v3](https://github.com/nextcloud/files_photospheres/pull/96) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [[DEVOPS] Update checkout action to v3](https://github.com/R0Wi/workflow_ocr/pull/155) on [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) (1 week ago)
+- [Merge upstream](https://github.com/seitenwerke/seitenwerke-nginx-proxy/pull/39) on [seitenwerke/seitenwerke-nginx-proxy](https://github.com/seitenwerke/seitenwerke-nginx-proxy) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform (3 days ago)
-- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware. (2 weeks ago)
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted) (1 month ago)
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform (1 week ago)
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware. (3 weeks ago)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted) (2 months ago)
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (2 months ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (2 months ago)
 - [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (2 months ago)
