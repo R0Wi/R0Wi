@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (3 weeks ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (1 month ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.4](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.4), 2 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.3.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.3.0), 2 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.23.1](https://github.com/nextcloud/android/releases/tag/stable-3.23.1), 4 days ago) - 📱 Nextcloud Android app
-- [nextcloud/server](https://github.com/nextcloud/server) ([v23.0.12](https://github.com/nextcloud/server/releases/tag/v23.0.12), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.4](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.4), 1 week ago) - Automated nginx proxy for Docker containers using docker-gen
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.3.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.3.0), 1 week ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.23.1](https://github.com/nextcloud/android/releases/tag/stable-3.23.1), 1 week ago) - 📱 Nextcloud Android app
+- [nextcloud/server](https://github.com/nextcloud/server) ([v23.0.12](https://github.com/nextcloud/server/releases/tag/v23.0.12), 3 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
 - [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v2.4.0](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v2.4.0), 1 month ago) - Nextcloud login via a single OpenID Connect 1.0 provider
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) ([v1.25.2](https://github.com/R0Wi/workflow_ocr/releases/tag/v1.25.2), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 
@@ -51,12 +51,12 @@
 #### ⭐ Recent Stars
 
 - [SanderKnape/pr-deployments](https://github.com/SanderKnape/pr-deployments) -  (1 month ago)
-- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) - Nextcloud login via a single OpenID Connect 1.0 provider (1 month ago)
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you&#39;ll enjoy using ⚡   (1 month ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background. (1 month ago)
+- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) - Nextcloud login via a single OpenID Connect 1.0 provider (2 months ago)
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you&#39;ll enjoy using ⚡   (2 months ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background. (2 months ago)
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform (2 months ago)
-- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware. (2 months ago)
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform (3 months ago)
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware. (3 months ago)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform (4 months ago)
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (4 months ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (4 months ago)
 - [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) - 🍱 Vue.js components for Nextcloud app development  ✌ (4 months ago)
