@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) -  (5 days ago)
-- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (4 weeks ago)
+- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) -  (1 week ago)
+- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (1 month ago)
 - [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (1 month ago)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
@@ -28,17 +28,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.9.0](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.9.0), 2 days ago) - 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v27.0.0beta2](https://github.com/nextcloud/server/releases/tag/v27.0.0beta2), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.11.4](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.11.4), 2 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v2.5.1](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v2.5.1), 6 days ago) - Nextcloud login via a single OpenID Connect 1.0 provider
+- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.9.6](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.9.6), 1 day ago) - 
+- [nextcloud/server](https://github.com/nextcloud/server) ([v26.0.2rc1](https://github.com/nextcloud/server/releases/tag/v26.0.2rc1), 4 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.25.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.25.0-01), 4 days ago) - 📱 Nextcloud Android app
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.11.6](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.11.6), 5 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v2.5.1](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v2.5.1), 1 week ago) - Nextcloud login via a single OpenID Connect 1.0 provider
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.26.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.26.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.24.1](https://github.com/nextcloud/android/releases/tag/stable-3.24.1), 2 months ago) - 📱 Nextcloud Android app
 
 #### 🔨 My recent Pull Requests
 
-- [fix: testresult mapping of source deployment](https://github.com/salesforcecli/plugin-deploy-retrieve/pull/610) on [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) (5 days ago)
-- [Use mysql 8 Debian as base (fix #503)](https://github.com/invoiceninja/dockerfiles/pull/507) on [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) (2 weeks ago)
+- [fix: testresult mapping of source deployment](https://github.com/salesforcecli/plugin-deploy-retrieve/pull/610) on [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) (1 week ago)
+- [Use mysql 8 Debian as base (fix #503)](https://github.com/invoiceninja/dockerfiles/pull/507) on [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) (3 weeks ago)
 - [[Backport stable26] Use PSR-4 autoloader](https://github.com/R0Wi-DEV/workflow_ocr/pull/200) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Use PSR-4 autoloader](https://github.com/R0Wi-DEV/workflow_ocr/pull/199) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Update improve devcontainer](https://github.com/nextcloud/server/pull/37521) on [nextcloud/server](https://github.com/nextcloud/server) (1 month ago)
@@ -50,13 +50,13 @@
 
 #### ⭐ Recent Stars
 
-- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux (1 week ago)
-- [raulgomis/semversioner](https://github.com/raulgomis/semversioner) - The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically. (2 weeks ago)
+- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux (2 weeks ago)
+- [raulgomis/semversioner](https://github.com/raulgomis/semversioner) - The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically. (3 weeks ago)
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (2 months ago)
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity. (2 months ago)
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (3 months ago)
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Screen Stream Android app (4 months ago)
-- [SanderKnape/pr-deployments](https://github.com/SanderKnape/pr-deployments) -  (5 months ago)
+- [SanderKnape/pr-deployments](https://github.com/SanderKnape/pr-deployments) -  (6 months ago)
 - [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) - Nextcloud login via a single OpenID Connect 1.0 provider (6 months ago)
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you&#39;ll enjoy using ⚡   (6 months ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 months ago)
