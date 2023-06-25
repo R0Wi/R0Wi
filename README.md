@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 days ago)
-- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment. (5 days ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (6 days ago)
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (2 weeks ago)
-- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (2 weeks ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment. (1 week ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 week ago)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (3 weeks ago)
+- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (3 weeks ago)
 - [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) -  (1 month ago)
 - [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (2 months ago)
 - [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (2 months ago)
@@ -28,34 +28,34 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.13.1](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.13.1), 1 day ago) - 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v26.0.3rc1](https://github.com/nextcloud/server/releases/tag/v26.0.3rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.25.0](https://github.com/nextcloud/android/releases/tag/stable-3.25.0), 5 days ago) - 📱 Nextcloud Android app
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.26.4](https://github.com/nextcloud/files_photospheres/releases/tag/v1.26.4), 1 week ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.12.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.12.0), 1 week ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.28.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.28.0), 1 week ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.17.10](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.17.10), 2 weeks ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
+- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.13.3](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.13.3), 1 day ago) - 
+- [nextcloud/server](https://github.com/nextcloud/server) ([v25.0.8](https://github.com/nextcloud/server/releases/tag/v25.0.8), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.25.0](https://github.com/nextcloud/android/releases/tag/stable-3.25.0), 1 week ago) - 📱 Nextcloud Android app
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.26.4](https://github.com/nextcloud/files_photospheres/releases/tag/v1.26.4), 2 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.12.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.12.0), 2 weeks ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.28.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.28.0), 2 weeks ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.17.10](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.17.10), 3 weeks ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v2.5.1](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v2.5.1), 1 month ago) - Nextcloud login via a single OpenID Connect 1.0 provider
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.26.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.26.1), 2 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 
 #### 🔨 My recent Pull Requests
 
-- [Pin nextcloud/ocp to 26.0.2 for stable26](https://github.com/R0Wi-DEV/workflow_ocr/pull/207) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
-- [Update composer dependencies for NC27](https://github.com/R0Wi-DEV/workflow_ocr/pull/206) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
-- [Fix link to Docker docs for mount flag](https://github.com/devcontainers/spec/pull/252) on [devcontainers/spec](https://github.com/devcontainers/spec) (5 days ago)
-- [[Backport stable26] Hide downloadbutton if configured in NC share](https://github.com/nextcloud/files_photospheres/pull/128) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (6 days ago)
-- [Hide downloadbutton if configured in NC share](https://github.com/nextcloud/files_photospheres/pull/127) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (6 days ago)
-- [Fix outFiles path](https://github.com/microsoft/vscode-extension-samples/pull/878) on [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) (6 days ago)
-- [[Backport stable26] PhotoSphereViewer update &#43; plugins added](https://github.com/nextcloud/files_photospheres/pull/126) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
-- [PhotoSphereViewer update &#43; plugins added](https://github.com/nextcloud/files_photospheres/pull/125) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
-- [[Backport stable26] Separate actions for contextmenu and image click fixes #121](https://github.com/nextcloud/files_photospheres/pull/123) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
-- [Separate actions for contextmenu and image click fixes #121](https://github.com/nextcloud/files_photospheres/pull/122) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [Pin nextcloud/ocp to 26.0.2 for stable26](https://github.com/R0Wi-DEV/workflow_ocr/pull/207) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Update composer dependencies for NC27](https://github.com/R0Wi-DEV/workflow_ocr/pull/206) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Fix link to Docker docs for mount flag](https://github.com/devcontainers/spec/pull/252) on [devcontainers/spec](https://github.com/devcontainers/spec) (1 week ago)
+- [[Backport stable26] Hide downloadbutton if configured in NC share](https://github.com/nextcloud/files_photospheres/pull/128) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [Hide downloadbutton if configured in NC share](https://github.com/nextcloud/files_photospheres/pull/127) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 week ago)
+- [Fix outFiles path](https://github.com/microsoft/vscode-extension-samples/pull/878) on [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) (1 week ago)
+- [[Backport stable26] PhotoSphereViewer update &#43; plugins added](https://github.com/nextcloud/files_photospheres/pull/126) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
+- [PhotoSphereViewer update &#43; plugins added](https://github.com/nextcloud/files_photospheres/pull/125) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
+- [[Backport stable26] Separate actions for contextmenu and image click fixes #121](https://github.com/nextcloud/files_photospheres/pull/123) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
+- [Separate actions for contextmenu and image click fixes #121](https://github.com/nextcloud/files_photospheres/pull/122) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas. (1 week ago)
+- [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas. (2 weeks ago)
 - [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux (1 month ago)
-- [raulgomis/semversioner](https://github.com/raulgomis/semversioner) - The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically. (1 month ago)
+- [raulgomis/semversioner](https://github.com/raulgomis/semversioner) - The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically. (2 months ago)
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories. (3 months ago)
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity. (3 months ago)
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (4 months ago)
