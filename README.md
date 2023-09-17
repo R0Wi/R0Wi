@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 days ago)
-- [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (5 days ago)
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (5 days ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (6 days ago)
-- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (4 weeks ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
+- [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (1 week ago)
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (1 week ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 week ago)
+- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (1 month ago)
 - [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (1 month ago)
-- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) -  (1 month ago)
+- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) -  (2 months ago)
 - [FriendlyCaptcha/friendly-lite-server](https://github.com/FriendlyCaptcha/friendly-lite-server) - Lite server for Friendly Captcha (2 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (2 months ago)
 - [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) - 🔍 Core of the full-text search framework for Nextcloud (2 months ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.17.12](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.17.12), 1 day ago) - 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.27.2](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.27.2), 2 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/server](https://github.com/nextcloud/server) ([v27.1.0rc2](https://github.com/nextcloud/server/releases/tag/v27.1.0rc2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) ([2.5.8](https://github.com/salesforcecli/plugin-data/releases/tag/2.5.8), 1 week ago) - 
-- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v3.0.0-rc.2](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v3.0.0-rc.2), 1 week ago) - Nextcloud login via a single OpenID Connect 1.0 provider
-- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.30.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.30.0), 3 weeks ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
+- [nextcloud/server](https://github.com/nextcloud/server) ([v27.1.0](https://github.com/nextcloud/server/releases/tag/v27.1.0), 1 day ago) - ☁️ Nextcloud server, a safe home for all your data
+- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.17.14](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.17.14), 1 day ago) - 
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.27.4](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.27.4), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) ([2.5.9](https://github.com/salesforcecli/plugin-data/releases/tag/2.5.9), 1 week ago) - 
+- [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v3.0.0-rc.2](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v3.0.0-rc.2), 2 weeks ago) - Nextcloud login via a single OpenID Connect 1.0 provider
+- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.30.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.30.0), 1 month ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.27.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.27.0), 2 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [FriendlyCaptcha/friendly-lite-server](https://github.com/FriendlyCaptcha/friendly-lite-server) ([0.1.0](https://github.com/FriendlyCaptcha/friendly-lite-server/releases/tag/0.1.0), 2 months ago) - Lite server for Friendly Captcha
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.17.10](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.17.10), 3 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
@@ -41,20 +41,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable27] Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/229) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
-- [Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/228) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
-- [Create ES client with logger NC implementation](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/294) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (6 days ago)
-- [Set `ALLOW_SELF_SIGNED_CERT` as string](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/293) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (6 days ago)
-- [[Backport stable27] Process OCR files by file id](https://github.com/R0Wi-DEV/workflow_ocr/pull/226) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
-- [[Devcontainer] move git setup to postStartCommand](https://github.com/nextcloud/server/pull/40068) on [nextcloud/server](https://github.com/nextcloud/server) (2 weeks ago)
-- [Process OCR files by file id](https://github.com/R0Wi-DEV/workflow_ocr/pull/225) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
-- [NC28 compat](https://github.com/R0Wi-DEV/workflow_ocr/pull/224) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
-- [Add Playwright E2E tests](https://github.com/nextcloud/files_photospheres/pull/129) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 weeks ago)
-- [Doc adjustments for occ trashbin:restore](https://github.com/nextcloud/documentation/pull/11011) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (4 weeks ago)
+- [Adjust username and group for keyword search](https://github.com/nextcloud/fulltextsearch/pull/771) on [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) (1 day ago)
+- [[Backport stable27] fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/231) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/230) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [[Backport stable27] Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/229) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/228) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Create ES client with logger NC implementation](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/294) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (1 week ago)
+- [Set `ALLOW_SELF_SIGNED_CERT` as string](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/293) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (1 week ago)
+- [[Backport stable27] Process OCR files by file id](https://github.com/R0Wi-DEV/workflow_ocr/pull/226) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 weeks ago)
+- [[Devcontainer] move git setup to postStartCommand](https://github.com/nextcloud/server/pull/40068) on [nextcloud/server](https://github.com/nextcloud/server) (3 weeks ago)
+- [Process OCR files by file id](https://github.com/R0Wi-DEV/workflow_ocr/pull/225) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser (3 weeks ago)
+- [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser (4 weeks ago)
 - [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (1 month ago)
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. (1 month ago)
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas. (3 months ago)
