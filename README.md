@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 days ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
-- [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) - 🔍 Core of the full-text search framework for Nextcloud (3 weeks ago)
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (3 weeks ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 weeks ago)
+- [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) - 🔍 Core of the full-text search framework for Nextcloud (4 weeks ago)
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (4 weeks ago)
 - [R0Wi/nextcloud-docker-extended](https://github.com/R0Wi/nextcloud-docker-extended) - A docker image based on the official Nextcloud image with additional tools and dependencies (1 month ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
-- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (1 month ago)
+- [R0Wi-DEV/restic_browser](https://github.com/R0Wi-DEV/restic_browser) -  (2 months ago)
 - [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (2 months ago)
-- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) -  (2 months ago)
+- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.18.7](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.18.7), 1 day ago) - 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v27.1.2](https://github.com/nextcloud/server/releases/tag/v27.1.2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.27.5](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.27.5), 3 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) ([2.5.15](https://github.com/salesforcecli/plugin-data/releases/tag/2.5.15), 1 week ago) - 
+- [nextcloud/server](https://github.com/nextcloud/server) ([v25.0.13rc1](https://github.com/nextcloud/server/releases/tag/v25.0.13rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) ([2.5.17](https://github.com/salesforcecli/plugin-data/releases/tag/2.5.17), 4 days ago) - 
+- [salesforcecli/plugin-deploy-retrieve](https://github.com/salesforcecli/plugin-deploy-retrieve) ([1.19.0](https://github.com/salesforcecli/plugin-deploy-retrieve/releases/tag/1.19.0), 6 days ago) - 
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.27.5](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.27.5), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [pulsejet/nextcloud-oidc-login](https://github.com/pulsejet/nextcloud-oidc-login) ([v3.0.0-rc.2](https://github.com/pulsejet/nextcloud-oidc-login/releases/tag/v3.0.0-rc.2), 1 month ago) - Nextcloud login via a single OpenID Connect 1.0 provider
-- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.30.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.30.0), 1 month ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
+- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) ([4.30.0](https://github.com/forcedotcom/SFDX-Data-Move-Utility/releases/tag/4.30.0), 2 months ago) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.27.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.27.0), 3 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [FriendlyCaptcha/friendly-lite-server](https://github.com/FriendlyCaptcha/friendly-lite-server) ([0.1.0](https://github.com/FriendlyCaptcha/friendly-lite-server/releases/tag/0.1.0), 3 months ago) - Lite server for Friendly Captcha
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([7.17.10](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/7.17.10), 4 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
@@ -41,12 +41,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Backport stable27] Skip notifications when OCR mode is &#34;skip file&#34;](https://github.com/R0Wi-DEV/workflow_ocr/pull/234) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 days ago)
-- [Skip notifications when OCR mode is &#34;skip file&#34;](https://github.com/R0Wi-DEV/workflow_ocr/pull/233) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (5 days ago)
-- [Backport of #11011 to stable27](https://github.com/nextcloud/documentation/pull/11140) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (2 weeks ago)
-- [Adjust username and group for keyword search](https://github.com/nextcloud/fulltextsearch/pull/771) on [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) (3 weeks ago)
-- [[Backport stable27] fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/231) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (4 weeks ago)
-- [fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/230) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (4 weeks ago)
+- [[Backport stable27] Skip notifications when OCR mode is &#34;skip file&#34;](https://github.com/R0Wi-DEV/workflow_ocr/pull/234) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Skip notifications when OCR mode is &#34;skip file&#34;](https://github.com/R0Wi-DEV/workflow_ocr/pull/233) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Backport of #11011 to stable27](https://github.com/nextcloud/documentation/pull/11140) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (3 weeks ago)
+- [Adjust username and group for keyword search](https://github.com/nextcloud/fulltextsearch/pull/771) on [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) (4 weeks ago)
+- [[Backport stable27] fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/231) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
+- [fix: Allow dynamic autoloading for classes added during upgrade](https://github.com/R0Wi-DEV/workflow_ocr/pull/230) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [[Backport stable27] Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/229) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Fix Notifications not being processed #221](https://github.com/R0Wi-DEV/workflow_ocr/pull/228) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Create ES client with logger NC implementation](https://github.com/nextcloud/fulltextsearch_elasticsearch/pull/294) on [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) (1 month ago)
