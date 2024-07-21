@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (1 week ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (2 weeks ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (1 month ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 months ago)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 months ago)
 - [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud (7 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (8 months ago)
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud (8 months ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (9 months ago)
-- [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) - 🔍 Core of the full-text search framework for Nextcloud (10 months ago)
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud (9 months ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (10 months ago)
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v28.0.8rc1](https://github.com/nextcloud/server/releases/tag/v28.0.8rc1), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [salesforcecli/plugin-data](https://github.com/salesforcecli/plugin-data) ([3.5.5](https://github.com/salesforcecli/plugin-data/releases/tag/3.5.5), 1 week ago) - 
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.4.3](https://github.com/nextcloud/richdocuments/releases/tag/v8.4.3), 3 weeks ago) - 📑 Collabora Online for Nextcloud
+- [nextcloud/server](https://github.com/nextcloud/server) ([v28.0.8rc1](https://github.com/nextcloud/server/releases/tag/v28.0.8rc1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.4.3](https://github.com/nextcloud/richdocuments/releases/tag/v8.4.3), 1 month ago) - 📑 Collabora Online for Nextcloud
 - [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v61.1.0](https://github.com/forcedotcom/dataloader/releases/tag/v61.1.0), 1 month ago) - Salesforce Data Loader
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.29.1](https://github.com/nextcloud/files_photospheres/releases/tag/v1.29.1), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.28.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.28.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
@@ -38,11 +37,12 @@
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([8.8.2](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/8.8.2), 8 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch/releases/tag/23.0.0), 2 years ago) - 🔍 Core of the full-text search framework for Nextcloud
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 2 years ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
+- [nextcloud/logreader](https://github.com/nextcloud/logreader) ([v22.0.0](https://github.com/nextcloud/logreader/releases/tag/v22.0.0), 3 years ago) - 📜 Log reader for Nextcloud
 
 #### 🔨 My recent Pull Requests
 
-- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (1 week ago)
-- [Increase PHP memory limit for DevContainer to 512mb](https://github.com/nextcloud/server/pull/46055) on [nextcloud/server](https://github.com/nextcloud/server) (3 weeks ago)
+- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (2 weeks ago)
+- [Increase PHP memory limit for DevContainer to 512mb](https://github.com/nextcloud/server/pull/46055) on [nextcloud/server](https://github.com/nextcloud/server) (4 weeks ago)
 - [Prepare for NC30](https://github.com/nextcloud/files_photospheres/pull/149) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 - [Fix node build for NC 29](https://github.com/nextcloud/files_photospheres/pull/148) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 - [Make sure show image actionhandler is only called once](https://github.com/nextcloud/files_photospheres/pull/146) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
