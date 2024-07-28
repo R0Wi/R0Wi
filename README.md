@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (2 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (3 weeks ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
-- [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (1 month ago)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 months ago)
-- [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud (7 months ago)
+- [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (2 months ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 months ago)
+- [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud (8 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (8 months ago)
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud (9 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (10 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v28.0.8rc1](https://github.com/nextcloud/server/releases/tag/v28.0.8rc1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.4.3](https://github.com/nextcloud/richdocuments/releases/tag/v8.4.3), 1 month ago) - 📑 Collabora Online for Nextcloud
+- [nextcloud/server](https://github.com/nextcloud/server) ([v30.0.0beta1](https://github.com/nextcloud/server/releases/tag/v30.0.0beta1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.5.0-beta.1](https://github.com/nextcloud/richdocuments/releases/tag/v8.5.0-beta.1), 3 days ago) - 📑 Collabora Online for Nextcloud
 - [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v61.1.0](https://github.com/forcedotcom/dataloader/releases/tag/v61.1.0), 1 month ago) - Salesforce Data Loader
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.29.1](https://github.com/nextcloud/files_photospheres/releases/tag/v1.29.1), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.28.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.28.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (2 weeks ago)
-- [Increase PHP memory limit for DevContainer to 512mb](https://github.com/nextcloud/server/pull/46055) on [nextcloud/server](https://github.com/nextcloud/server) (4 weeks ago)
+- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (3 weeks ago)
+- [Increase PHP memory limit for DevContainer to 512mb](https://github.com/nextcloud/server/pull/46055) on [nextcloud/server](https://github.com/nextcloud/server) (1 month ago)
 - [Prepare for NC30](https://github.com/nextcloud/files_photospheres/pull/149) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 - [Fix node build for NC 29](https://github.com/nextcloud/files_photospheres/pull/148) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 - [Make sure show image actionhandler is only called once](https://github.com/nextcloud/files_photospheres/pull/146) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
@@ -50,15 +50,15 @@
 - [Add support for PHP8.3 in NC28 version](https://github.com/nextcloud/files_photospheres/pull/144) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 month ago)
 - [Add PHP8.3 support to NC28 version](https://github.com/R0Wi-DEV/workflow_ocr/pull/253) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [NC29 compat final](https://github.com/nextcloud/files_photospheres/pull/142) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
-- [Update devcontainer PHP dependencies to 8.3](https://github.com/nextcloud/server/pull/45086) on [nextcloud/server](https://github.com/nextcloud/server) (2 months ago)
+- [Update devcontainer PHP dependencies to 8.3](https://github.com/nextcloud/server/pull/45086) on [nextcloud/server](https://github.com/nextcloud/server) (3 months ago)
 
 #### ⭐ Recent Stars
 
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (3 months ago)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 (6 months ago)
 - [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser (11 months ago)
-- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (11 months ago)
-- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. (11 months ago)
+- [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (1 year ago)
+- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. (1 year ago)
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas. (1 year ago)
 - [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux (1 year ago)
 - [raulgomis/semversioner](https://github.com/raulgomis/semversioner) - The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically. (1 year ago)
