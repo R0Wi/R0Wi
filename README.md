@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 day ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (1 month ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 months ago)
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (2 months ago)
 - [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (3 months ago)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (4 months ago)
 - [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud (9 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (9 months ago)
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud (10 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.3.10](https://github.com/nextcloud/richdocuments/releases/tag/v8.3.10), 3 days ago) - 📑 Collabora Online for Nextcloud
-- [nextcloud/server](https://github.com/nextcloud/server) ([v30.0.0rc2](https://github.com/nextcloud/server/releases/tag/v30.0.0rc2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v62.0.1](https://github.com/forcedotcom/dataloader/releases/tag/v62.0.1), 3 weeks ago) - Salesforce Data Loader
+- [nextcloud/server](https://github.com/nextcloud/server) ([v29.0.6rc1](https://github.com/nextcloud/server/releases/tag/v29.0.6rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) ([v8.5.0-beta.3](https://github.com/nextcloud/richdocuments/releases/tag/v8.5.0-beta.3), 3 days ago) - 📑 Collabora Online for Nextcloud
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v62.0.1](https://github.com/forcedotcom/dataloader/releases/tag/v62.0.1), 1 month ago) - Salesforce Data Loader
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.29.1](https://github.com/nextcloud/files_photospheres/releases/tag/v1.29.1), 2 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.28.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.28.1), 2 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.28.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.28.1), 3 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([8.8.2](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/8.8.2), 9 months ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 - [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch/releases/tag/23.0.0), 2 years ago) - 🔍 Core of the full-text search framework for Nextcloud
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 2 years ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (1 month ago)
+- [NC31 version bump](https://github.com/R0Wi-DEV/workflow_ocr/pull/265) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 day ago)
+- [Stabilize stable30](https://github.com/nextcloud/files_photospheres/pull/154) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (1 day ago)
+- [Dependabot &amp; format fixes for stable30](https://github.com/R0Wi-DEV/workflow_ocr/pull/262) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 day ago)
+- [Fix #1189](https://github.com/forcedotcom/dataloader/pull/1192) on [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) (2 months ago)
 - [Increase PHP memory limit for DevContainer to 512mb](https://github.com/nextcloud/server/pull/46055) on [nextcloud/server](https://github.com/nextcloud/server) (2 months ago)
 - [Prepare for NC30](https://github.com/nextcloud/files_photospheres/pull/149) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
 - [Fix node build for NC 29](https://github.com/nextcloud/files_photospheres/pull/148) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
-- [Make sure show image actionhandler is only called once](https://github.com/nextcloud/files_photospheres/pull/146) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
-- [Fix Node build](https://github.com/nextcloud/files_photospheres/pull/145) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
-- [Add support for PHP8.3 in NC28 version](https://github.com/nextcloud/files_photospheres/pull/144) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 months ago)
-- [Add PHP8.3 support to NC28 version](https://github.com/R0Wi-DEV/workflow_ocr/pull/253) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [NC29 compat final](https://github.com/nextcloud/files_photospheres/pull/142) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
-- [Update devcontainer PHP dependencies to 8.3](https://github.com/nextcloud/server/pull/45086) on [nextcloud/server](https://github.com/nextcloud/server) (3 months ago)
+- [Make sure show image actionhandler is only called once](https://github.com/nextcloud/files_photospheres/pull/146) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
+- [Fix Node build](https://github.com/nextcloud/files_photospheres/pull/145) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
+- [Add support for PHP8.3 in NC28 version](https://github.com/nextcloud/files_photospheres/pull/144) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
 
 #### ⭐ Recent Stars
 
