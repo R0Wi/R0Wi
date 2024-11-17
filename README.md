@@ -4,11 +4,10 @@
 
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 months ago)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 months ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 months ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 months ago)
 - [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (4 months ago)
 - [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (5 months ago)
 - [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud (11 months ago)
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -25,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v28.0.12](https://github.com/nextcloud/server/releases/tag/v28.0.12), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v62.0.2](https://github.com/forcedotcom/dataloader/releases/tag/v62.0.2), 3 weeks ago) - Salesforce Data Loader
+- [nextcloud/server](https://github.com/nextcloud/server) ([v28.0.12](https://github.com/nextcloud/server/releases/tag/v28.0.12), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v62.0.2](https://github.com/forcedotcom/dataloader/releases/tag/v62.0.2), 1 month ago) - Salesforce Data Loader
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.30.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.30.0), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.30.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.30.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [nextcloud/logreader](https://github.com/nextcloud/logreader) ([v22.0.0](https://github.com/nextcloud/logreader/releases/tag/v22.0.0), 3 years ago) - 📜 Log reader for Nextcloud
@@ -46,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server (3 weeks ago)
+- [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server (1 month ago)
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (7 months ago)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 (10 months ago)
 - [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser (1 year ago)
