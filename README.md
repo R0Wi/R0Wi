@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (4 days ago)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
-- [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) - 🎖 Repository for requesting app certificates (1 week ago)
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 week ago)
-- [R0Wi-DEV/.github](https://github.com/R0Wi-DEV/.github) - Readme for R0Wi-DEV (2 weeks ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (4 months ago)
+- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (1 week ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 weeks ago)
+- [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) - 🎖 Repository for requesting app certificates (2 weeks ago)
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 weeks ago)
+- [R0Wi-DEV/.github](https://github.com/R0Wi-DEV/.github) - Readme for R0Wi-DEV (3 weeks ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (5 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (6 months ago)
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (6 months ago)
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (7 months ago)
 - [R0Wi/DHBW-Git-Workshop](https://github.com/R0Wi/DHBW-Git-Workshop) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -27,22 +27,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v31.0.0rc1](https://github.com/nextcloud/server/releases/tag/v31.0.0rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.4](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.4), 4 days ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
+- [nextcloud/server](https://github.com/nextcloud/server) ([v31.0.0rc2](https://github.com/nextcloud/server/releases/tag/v31.0.0rc2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.4](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.4), 1 week ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v63.0.0](https://github.com/forcedotcom/dataloader/releases/tag/v63.0.0), 1 month ago) - Salesforce Data Loader
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.30.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.30.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.30.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.30.1), 2 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.30.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.30.0), 4 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependencies](https://github.com/R0Wi/nextcloud-appstore-push-action/pull/10) on [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) (4 days ago)
-- [Merge changes from Nextcloud Fork](https://github.com/R0Wi/nextcloud-appstore-push-action/pull/9) on [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) (4 days ago)
-- [fix: restrict mime type list depending on check operator](https://github.com/nextcloud/server/pull/50259) on [nextcloud/server](https://github.com/nextcloud/server) (1 week ago)
-- [Implement Directory Check](https://github.com/nextcloud/server/pull/50258) on [nextcloud/server](https://github.com/nextcloud/server) (1 week ago)
-- [Add support for workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr/pull/291) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [Fix#273](https://github.com/R0Wi-DEV/workflow_ocr/pull/290) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [Create workflow_ocr_backend.csr](https://github.com/nextcloud/app-certificate-requests/pull/756) on [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) (1 week ago)
-- [Introduce Setup Check](https://github.com/R0Wi-DEV/workflow_ocr/pull/289) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (4 weeks ago)
+- [Update dependencies](https://github.com/R0Wi/nextcloud-appstore-push-action/pull/10) on [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) (1 week ago)
+- [Merge changes from Nextcloud Fork](https://github.com/R0Wi/nextcloud-appstore-push-action/pull/9) on [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) (1 week ago)
+- [fix: restrict mime type list depending on check operator](https://github.com/nextcloud/server/pull/50259) on [nextcloud/server](https://github.com/nextcloud/server) (2 weeks ago)
+- [Implement Directory Check](https://github.com/nextcloud/server/pull/50258) on [nextcloud/server](https://github.com/nextcloud/server) (2 weeks ago)
+- [Add support for workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr/pull/291) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [Fix#273](https://github.com/R0Wi-DEV/workflow_ocr/pull/290) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [Create workflow_ocr_backend.csr](https://github.com/nextcloud/app-certificate-requests/pull/756) on [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) (2 weeks ago)
+- [Introduce Setup Check](https://github.com/R0Wi-DEV/workflow_ocr/pull/289) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Avoid pipe to get original error code](https://github.com/R0Wi-DEV/workflow_ocr/pull/288) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Feature: Configurable success notification](https://github.com/R0Wi-DEV/workflow_ocr/pull/287) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 
