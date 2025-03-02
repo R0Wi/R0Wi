@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (6 days ago)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 week ago)
-- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (1 week ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (3 weeks ago)
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (3 weeks ago)
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 week ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 weeks ago)
+- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (2 weeks ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (4 weeks ago)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (4 weeks ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (1 month ago)
 - [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) - 🎖 Repository for requesting app certificates (1 month ago)
 - [R0Wi-DEV/.github](https://github.com/R0Wi-DEV/.github) - Readme for R0Wi-DEV (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (7 months ago)
-- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (7 months ago)
+- [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) - Salesforce Data Loader (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.31.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.31.0), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/server](https://github.com/nextcloud/server) ([v29.0.12](https://github.com/nextcloud/server/releases/tag/v29.0.12), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.31.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.31.0), 2 weeks ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.31.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.31.0), 3 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [nextcloud/server](https://github.com/nextcloud/server) ([v31.0.0](https://github.com/nextcloud/server/releases/tag/v31.0.0), 5 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.31.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.31.0), 2 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.31.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.31.0), 3 weeks ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.31.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.31.0), 4 weeks ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.4](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.4), 1 month ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [forcedotcom/dataloader](https://github.com/forcedotcom/dataloader) ([v63.0.0](https://github.com/forcedotcom/dataloader/releases/tag/v63.0.0), 2 months ago) - Salesforce Data Loader
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) ([v3.2.0](https://github.com/nextcloud/app_api/releases/tag/v3.2.0), 5 months ago) - Nextcloud AppAPI
@@ -39,20 +39,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix parameter preparation for occ command](https://github.com/nextcloud/app_api/pull/518) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (6 days ago)
-- [Fix AppManager method name](https://github.com/nextcloud/app_api/pull/512) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (1 week ago)
-- [Backport php84 adjustments to stable31](https://github.com/R0Wi-DEV/workflow_ocr/pull/299) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [Add support for php 8.4](https://github.com/R0Wi-DEV/workflow_ocr/pull/298) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [[Backport master] Add support for workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr/pull/297) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [Improve error logging](https://github.com/nextcloud/app_api/pull/510) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (1 week ago)
-- [Add local CLI tests](https://github.com/R0Wi-DEV/workflow_ocr/pull/296) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
-- [Add full integrationtests to pipeline](https://github.com/R0Wi-DEV/workflow_ocr/pull/294) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
-- [Prep nc31](https://github.com/R0Wi-DEV/workflow_ocr/pull/292) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
-- [Prep NC32](https://github.com/nextcloud/files_photospheres/pull/160) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 weeks ago)
+- [Fix parameter preparation for occ command](https://github.com/nextcloud/app_api/pull/518) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (1 week ago)
+- [Fix AppManager method name](https://github.com/nextcloud/app_api/pull/512) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (2 weeks ago)
+- [Backport php84 adjustments to stable31](https://github.com/R0Wi-DEV/workflow_ocr/pull/299) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [Add support for php 8.4](https://github.com/R0Wi-DEV/workflow_ocr/pull/298) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [[Backport master] Add support for workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr/pull/297) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [Improve error logging](https://github.com/nextcloud/app_api/pull/510) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (2 weeks ago)
+- [Add local CLI tests](https://github.com/R0Wi-DEV/workflow_ocr/pull/296) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
+- [Add full integrationtests to pipeline](https://github.com/R0Wi-DEV/workflow_ocr/pull/294) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 weeks ago)
+- [Prep nc31](https://github.com/R0Wi-DEV/workflow_ocr/pull/292) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 weeks ago)
+- [Prep NC32](https://github.com/nextcloud/files_photospheres/pull/160) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (3 days ago)
+- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (1 week ago)
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server (4 months ago)
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (10 months ago)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 (1 year ago)
