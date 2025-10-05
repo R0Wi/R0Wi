@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 months ago)
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (5 months ago)
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 days ago)
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 days ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (3 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (7 months ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (7 months ago)
-- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (7 months ago)
+- [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (8 months ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (8 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (8 months ago)
 - [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests) - 🎖 Repository for requesting app certificates (8 months ago)
-- [R0Wi-DEV/.github](https://github.com/R0Wi-DEV/.github) - Readme for R0Wi-DEV (8 months ago)
+- [R0Wi-DEV/.github](https://github.com/R0Wi-DEV/.github) - Readme for R0Wi-DEV (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,35 +27,35 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v32.0.0](https://github.com/nextcloud/server/releases/tag/v32.0.0), 1 day ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.31.2](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.31.2), 2 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.31.1](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.31.1), 5 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.31.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.31.0), 7 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.31.3](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.31.3), 2 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.32.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.32.0), 2 days ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.32.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.32.0), 2 days ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [nextcloud/server](https://github.com/nextcloud/server) ([v32.0.0](https://github.com/nextcloud/server/releases/tag/v32.0.0), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.4](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.4), 8 months ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) ([v3.2.0](https://github.com/nextcloud/app_api/releases/tag/v3.2.0), 1 year ago) - Nextcloud AppAPI
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) ([8.8.2](https://github.com/R0Wi/elasticsearch-nextcloud-docker/releases/tag/8.8.2), 2 years ago) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search)
 
 #### 🔨 My recent Pull Requests
 
-- [Gracefully handle already done ocr (#308) [Backport #308 to stable31]](https://github.com/R0Wi-DEV/workflow_ocr/pull/319) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Make dependency to File Versions App optional (#314)](https://github.com/R0Wi-DEV/workflow_ocr/pull/317) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Enable files_external to fix Integrationtests](https://github.com/R0Wi-DEV/workflow_ocr/pull/316) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Improve Setupcheck](https://github.com/R0Wi-DEV/workflow_ocr/pull/315) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Make dependency to File Versions App optional](https://github.com/R0Wi-DEV/workflow_ocr/pull/314) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Implement PNG alpha channel removal in OCR processing](https://github.com/R0Wi-DEV/workflow_ocr/pull/310) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (5 months ago)
-- [[backport stable31] Add ocrmypdf exit code to API result model](https://github.com/R0Wi-DEV/workflow_ocr/pull/306) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (5 months ago)
-- [Add ocrmypdf exit code to API result model](https://github.com/R0Wi-DEV/workflow_ocr/pull/302) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (5 months ago)
-- [Add exitcode](https://github.com/R0Wi-DEV/workflow_ocr_backend/pull/2) on [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) (5 months ago)
-- [Fix parameter preparation for occ command](https://github.com/nextcloud/app_api/pull/518) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (7 months ago)
+- [Cherry pick fix wrong user nc31](https://github.com/R0Wi-DEV/workflow_ocr/pull/331) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
+- [Fix wrong user problem when using tag assignment in TeamFolders](https://github.com/R0Wi-DEV/workflow_ocr/pull/330) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
+- [Bump version to NC32](https://github.com/R0Wi-DEV/workflow_ocr_backend/pull/3) on [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) (2 days ago)
+- [master is now NC33](https://github.com/R0Wi-DEV/workflow_ocr/pull/329) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
+- [Create stable32](https://github.com/R0Wi-DEV/workflow_ocr/pull/328) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
+- [Fix wrong user problem when using tag assignment in TeamFolders](https://github.com/R0Wi-DEV/workflow_ocr/pull/327) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 days ago)
+- [[Backport stable32] Fix display files with special chars in path](https://github.com/nextcloud/files_photospheres/pull/168) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 days ago)
+- [[Backport stable31] Fix display files with special chars in path](https://github.com/nextcloud/files_photospheres/pull/167) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 days ago)
+- [Create stable32](https://github.com/nextcloud/files_photospheres/pull/166) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (2 days ago)
+- [Update Nextcloud Devcontainer](https://github.com/nextcloud/server/pull/55527) on [nextcloud/server](https://github.com/nextcloud/server) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (1 month ago)
+- [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (2 months ago)
 - [joohoi/acme-dns-certbot-joohoi](https://github.com/joohoi/acme-dns-certbot-joohoi) - Certbot client hook for acme-dns (6 months ago)
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. (6 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (7 months ago)
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server (11 months ago)
-- [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (1 year ago)
+- [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (2 years ago)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 (2 years ago)
 - [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui - for desktop &amp; your browser (2 years ago)
 - [forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility) - SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go. (2 years ago)
