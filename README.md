@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 days ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (6 days ago)
-- [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (1 week ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (5 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
+- [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (2 weeks ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (1 month ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 month ago)
-- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (2 months ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 months ago)
+- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (3 months ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 months ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (3 months ago)
 - [R0Wi/elasticsearch-nextcloud-docker](https://github.com/R0Wi/elasticsearch-nextcloud-docker) - A docker container hosting elasticsearch with ingest-attachment plugin enabled (compatible with NC fulltext search) (11 months ago)
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v31.0.12](https://github.com/nextcloud/server/releases/tag/v31.0.12), 3 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.0beta2](https://github.com/nextcloud/server/releases/tag/v33.0.0beta2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.32.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.32.1), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.32.1](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.32.1), 1 month ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.32.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.32.0), 3 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
@@ -38,20 +38,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(exapp_development): Add documentation for ExApp HaRP](https://github.com/nextcloud/documentation/pull/13960) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (6 days ago)
-- [fix(devcontainer): ](https://github.com/nextcloud/documentation/pull/13959) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (6 days ago)
-- [refactor: migrate from rspack to rsbuild for build configuration](https://github.com/R0Wi-DEV/workflow_ocr/pull/344) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [Use Docusaurus as blog framework](https://github.com/R0Wi/R0Wi.github.io/pull/1) on [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) (5 days ago)
+- [feat(exapp_development): Add documentation for ExApp HaRP](https://github.com/nextcloud/documentation/pull/13960) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (1 week ago)
+- [fix(devcontainer): ](https://github.com/nextcloud/documentation/pull/13959) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (1 week ago)
+- [refactor: migrate from rspack to rsbuild for build configuration](https://github.com/R0Wi-DEV/workflow_ocr/pull/344) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
 - [Add some UI help texts for settings](https://github.com/R0Wi-DEV/workflow_ocr/pull/340) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Use HaRP proxy for remote integration tests](https://github.com/R0Wi-DEV/workflow_ocr/pull/336) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [Prepare Nextcloud 33](https://github.com/R0Wi-DEV/workflow_ocr_backend/pull/7) on [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) (1 month ago)
 - [[Backport stable32] Add configurable timeout for OCR processing requests](https://github.com/R0Wi-DEV/workflow_ocr/pull/335) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [fix: Use OCP\IAppConfig instead of OCP\IConfig to prevent config error](https://github.com/nextcloud/app_api/pull/713) on [nextcloud/app_api](https://github.com/nextcloud/app_api) (1 month ago)
 - [Cherry pick fix wrong user nc31](https://github.com/R0Wi-DEV/workflow_ocr/pull/331) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
-- [Fix wrong user problem when using tag assignment in TeamFolders](https://github.com/R0Wi-DEV/workflow_ocr/pull/330) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) - 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%&#43; test coverage (1 week ago)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) - 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%&#43; test coverage (2 weeks ago)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (5 months ago)
 - [joohoi/acme-dns-certbot-joohoi](https://github.com/joohoi/acme-dns-certbot-joohoi) - Certbot client hook for acme-dns (9 months ago)
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. (9 months ago)
