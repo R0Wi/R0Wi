@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 month ago)
 - [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (2 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 months ago)
 - [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (2 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (3 months ago)
-- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (4 months ago)
+- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (5 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (5 months ago)
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.0](https://github.com/nextcloud/documentation/releases/tag/v33.0.0), 1 week ago) - 📘 Nextcloud documentation
-- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.0](https://github.com/nextcloud/server/releases/tag/v33.0.0), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.0](https://github.com/nextcloud/documentation/releases/tag/v33.0.0), 2 weeks ago) - 📘 Nextcloud documentation
+- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.0](https://github.com/nextcloud/server/releases/tag/v33.0.0), 3 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.33.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.33.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.0), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.33.0), 1 month ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
@@ -49,8 +49,8 @@
 
 #### ⭐ Recent Stars
 
-- [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github&#39;s styling (2 weeks ago)
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows. (2 weeks ago)
+- [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github&#39;s styling (3 weeks ago)
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows. (3 weeks ago)
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services (1 month ago)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) - 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%&#43; test coverage (2 months ago)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (7 months ago)
