@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 months ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 months ago)
 - [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (3 months ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.2](https://github.com/nextcloud/server/releases/tag/v33.0.2), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.1](https://github.com/nextcloud/documentation/releases/tag/v33.0.1), 1 week ago) - 📘 Nextcloud documentation
+- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.2](https://github.com/nextcloud/server/releases/tag/v33.0.2), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.1](https://github.com/nextcloud/documentation/releases/tag/v33.0.1), 2 weeks ago) - 📘 Nextcloud documentation
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.33.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.33.0), 2 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.0), 2 months ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.33.0), 2 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
