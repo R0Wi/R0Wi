@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (3 months ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (3 months ago)
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (3 months ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (4 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 months ago)
 - [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (4 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (5 months ago)
-- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (6 months ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (6 months ago)
+- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (7 months ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.0beta2](https://github.com/nextcloud/server/releases/tag/v34.0.0beta2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.1), 4 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.0beta4](https://github.com/nextcloud/server/releases/tag/v34.0.0beta4), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.1), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.1](https://github.com/nextcloud/documentation/releases/tag/v33.0.1), 1 month ago) - 📘 Nextcloud documentation
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.33.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.33.0), 3 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.33.0), 3 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[hotfix stable33] Fix type error for string setting](https://github.com/R0Wi-DEV/workflow_ocr/pull/380) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (4 days ago)
+- [[hotfix stable33] Fix type error for string setting](https://github.com/R0Wi-DEV/workflow_ocr/pull/380) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
 - [Fix psalm](https://github.com/R0Wi-DEV/workflow_ocr/pull/354) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
 - [master is now NC34](https://github.com/nextcloud/files_photospheres/pull/173) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
 - [NC33 compat](https://github.com/nextcloud/files_photospheres/pull/172) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
@@ -44,7 +44,7 @@
 - [NC33 compat](https://github.com/R0Wi-DEV/workflow_ocr_backend/pull/8) on [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) (3 months ago)
 - [master is now NC34](https://github.com/R0Wi-DEV/workflow_ocr/pull/351) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
 - [NC33 compat](https://github.com/R0Wi-DEV/workflow_ocr/pull/350) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
-- [Use Docusaurus as blog framework](https://github.com/R0Wi/R0Wi.github.io/pull/1) on [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) (3 months ago)
+- [Use Docusaurus as blog framework](https://github.com/R0Wi/R0Wi.github.io/pull/1) on [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) (4 months ago)
 - [feat(exapp_development): Add documentation for ExApp HaRP](https://github.com/nextcloud/documentation/pull/13960) on [nextcloud/documentation](https://github.com/nextcloud/documentation) (4 months ago)
 
 #### ⭐ Recent Stars
