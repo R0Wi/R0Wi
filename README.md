@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.0beta4](https://github.com/nextcloud/server/releases/tag/v34.0.0beta4), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.1), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.0rc1](https://github.com/nextcloud/server/releases/tag/v34.0.0rc1), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.33.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.33.1), 2 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v33.0.1](https://github.com/nextcloud/documentation/releases/tag/v33.0.1), 1 month ago) - 📘 Nextcloud documentation
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.33.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.33.0), 3 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.33.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.33.0), 3 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[hotfix stable33] Fix type error for string setting](https://github.com/R0Wi-DEV/workflow_ocr/pull/380) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 week ago)
+- [[hotfix stable33] Fix type error for string setting](https://github.com/R0Wi-DEV/workflow_ocr/pull/380) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 weeks ago)
 - [Fix psalm](https://github.com/R0Wi-DEV/workflow_ocr/pull/354) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (3 months ago)
 - [master is now NC34](https://github.com/nextcloud/files_photospheres/pull/173) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
 - [NC33 compat](https://github.com/nextcloud/files_photospheres/pull/172) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (3 months ago)
