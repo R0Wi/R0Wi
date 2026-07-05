@@ -7,7 +7,7 @@
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (1 month ago)
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (5 months ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (6 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (6 months ago)
 - [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (6 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (7 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.34.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.34.0), 2 days ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.0), 2 days ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.1](https://github.com/nextcloud/server/releases/tag/v34.0.1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 2 weeks ago) - 📘 Nextcloud documentation
+- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.34.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.34.0), 1 week ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.0), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.1](https://github.com/nextcloud/server/releases/tag/v34.0.1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 3 weeks ago) - 📘 Nextcloud documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.5](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.5), 1 month ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.34.0), 1 month ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) ([v3.2.0](https://github.com/nextcloud/app_api/releases/tag/v3.2.0), 2 years ago) - Nextcloud AppAPI
@@ -45,7 +45,7 @@
 - [feat: Update to NC35 and upgrade deps](https://github.com/R0Wi-DEV/workflow_ocr/pull/383) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (1 month ago)
 - [chore: Update python deps](https://github.com/R0Wi-DEV/workflow_ocr_backend/pull/11) on [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) (1 month ago)
 - [[hotfix stable33] Fix type error for string setting](https://github.com/R0Wi-DEV/workflow_ocr/pull/380) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (2 months ago)
-- [Fix psalm](https://github.com/R0Wi-DEV/workflow_ocr/pull/354) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (4 months ago)
+- [Fix psalm](https://github.com/R0Wi-DEV/workflow_ocr/pull/354) on [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) (5 months ago)
 - [master is now NC34](https://github.com/nextcloud/files_photospheres/pull/173) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (5 months ago)
 - [NC33 compat](https://github.com/nextcloud/files_photospheres/pull/172) on [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) (5 months ago)
 
@@ -54,8 +54,8 @@
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github&#39;s styling (4 months ago)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows. (4 months ago)
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services (5 months ago)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) - 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%&#43; test coverage (6 months ago)
-- [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (10 months ago)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) - 📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client. (6 months ago)
+- [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (11 months ago)
 - [joohoi/acme-dns-certbot-joohoi](https://github.com/joohoi/acme-dns-certbot-joohoi) - Certbot client hook for acme-dns (1 year ago)
 - [acme-dns/acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. (1 year ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (1 year ago)
