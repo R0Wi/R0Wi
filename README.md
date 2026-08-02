@@ -1,18 +1,5 @@
 ### Hi there, it's Robin 👋
 
-#### 👷 Check out what I'm currently working on
-
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
-- [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (1 month ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (1 month ago)
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (6 months ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (6 months ago)
-- [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (6 months ago)
-- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (7 months ago)
-- [R0Wi/DHBW-Verteilte-Systeme](https://github.com/R0Wi/DHBW-Verteilte-Systeme) -  (9 months ago)
-
 #### 🌱 My latest projects
 
 - [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT
