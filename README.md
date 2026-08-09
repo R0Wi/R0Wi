@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (2 days ago)
-- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (6 days ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
+- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (1 week ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 months ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 months ago)
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (2 months ago)
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (6 months ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (7 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (7 months ago)
 - [R0Wi/A02YYUW-to-MQTT](https://github.com/R0Wi/A02YYUW-to-MQTT) - A simple python based project reading A02YYUW serial data and pushing it via MQTT (7 months ago)
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (8 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.2](https://github.com/nextcloud/server/releases/tag/v34.0.2), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.2](https://github.com/nextcloud/server/releases/tag/v34.0.2), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.34.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.34.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.0), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 1 month ago) - 📘 Nextcloud documentation
