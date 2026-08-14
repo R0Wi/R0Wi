@@ -72,6 +72,84 @@ There is **no `androidTarget()`** anywhere in the build, no Android Gradle Plugi
 - Because there's no Android target in the project's own test matrix, treat any Android usage as
   unsupported/best-effort: pin versions carefully and verify builds after upgrades.
 
+## Should the project add `androidTarget()`?
+
+Probably worth requesting, and it would be a cheap change relative to the payoff:
+
+- **Its own dependencies already support Android.** Ktor, `kotlinx.coroutines`, `kotlinx.serialization`,
+  and `kotlinx.collections.immutable` all publish an Android target already. Adding
+  `androidTarget()` to `kotlin-sdk-core`/`-client`/`-server` wouldn't require porting any
+  platform-specific code — `commonMain` would compile as-is.
+- **It converts "happens to work" into "actually tested."** Right now Android usage relies on Gradle
+  resolving the `jvm` variant for a non-KMP Android module — that's an unofficial pattern, not something
+  the project's own Gradle Module Metadata declares support for. A real `androidTarget()` publishes a
+  proper `-android` variant with correct `org.jetbrains.kotlin.platform.type=androidJvm` attributes, so
+  resolution is intentional rather than coincidental.
+- **It would have caught #272 automatically.** A `androidTarget()` build (or the smoke test the
+  maintainers said they'd add) runs D8's duplicate-class check in CI, catching bugs like the
+  `LibVersionKt` collision before release instead of after a user reports it.
+- **It's a smaller ask than what #234 requested and was refused.** That issue asked for a
+  purpose-built Android SDK (cross-app AIDL/Binder IPC) — a genuinely large, opinionated feature.
+  Plain `androidTarget()` support for library consumption is a much narrower, mostly mechanical change
+  and wasn't really what got turned down.
+- **Downsides for the maintainers**: an Android SDK/emulator toolchain in CI, a `compileSdk`/`minSdk`
+  policy to define and maintain, and one more published variant to keep green — real but bounded costs.
+
+If you want Android to be a first-class target, the actionable move is a *scoped* feature request (or
+PR) that asks specifically for `androidTarget()` on the existing modules — distinct from re-opening #234.
+
+## How to test Android compatibility cheaply
+
+Ordered from fastest/no-tooling to most realistic:
+
+1. **Duplicate-class check without any Android SDK** (mirrors exactly what broke in #272 — Android's
+   D8/R8 step rejects a build if the same class appears in two dependency jars, which plain JVM apps
+   never check for). Download the published `-jvm` artifacts and diff their class lists:
+
+   ```bash
+   for m in kotlin-sdk-core-jvm kotlin-sdk-client-jvm kotlin-sdk-server-jvm; do
+     curl -sSO "https://repo1.maven.org/maven2/io/modelcontextprotocol/$m/<version>/$m-<version>.jar"
+     unzip -l "$m-<version>.jar" | awk '{print $4}' | grep '\.class$' | sort > "$m.classes.txt"
+   done
+   comm -12 kotlin-sdk-core-jvm.classes.txt kotlin-sdk-client-jvm.classes.txt   # should be empty
+   comm -12 kotlin-sdk-core-jvm.classes.txt kotlin-sdk-server-jvm.classes.txt   # should be empty
+   comm -12 kotlin-sdk-client-jvm.classes.txt kotlin-sdk-server-jvm.classes.txt # should be empty
+   ```
+
+   **Ran this against the current latest release (0.15.0) as part of this research: no duplicate
+   classes across any pair of the three `-jvm` jars, and `LibVersionKt` now exists only in
+   `kotlin-sdk-core-jvm`** — confirming PR #274's fix holds in the released artifact.
+
+2. **Dependency resolution / variant check** (needs Android Gradle Plugin, no emulator): create a
+   throwaway `com.android.library` (or `application`) module, add the SDK as a dependency, and run
+   `./gradlew :app:dependencies --configuration debugRuntimeClasspath` to confirm Gradle actually
+   resolves a compatible variant instead of failing or silently doing something unexpected.
+
+3. **Full Android build with minification** (needs Android SDK, no emulator): same throwaway module,
+   `minifyEnabled true`, run `./gradlew :app:assembleRelease`. This exercises the exact D8/R8 duplicate-
+   class and API-availability checks that Step 1 approximates without tooling, plus catches any
+   `NoClassDefFoundError`-style issues from `minSdk`. Try a couple of `minSdk` values (e.g. 24 and 26)
+   to see whether core-library desugaring is required.
+
+4. **Robolectric unit test** (JVM-only, no emulator, no real device): exercise an actual
+   `Client`/`Server` round trip using `ChannelTransport` (already used in the SDK's own tests) inside a
+   Robolectric-hosted JVM test in the Android module — verifies `kotlinx.coroutines`/`serialization`
+   behave correctly under Android's simulated runtime, fast enough for routine CI.
+
+5. **Real emulator/device smoke test** (slowest, most realistic): a small instrumented test app using
+   `ktor-client-okhttp` (or `-cio`) as the client engine, talking SSE/Streamable-HTTP to a local MCP
+   test server, run on a couple of emulator API levels. This is the only step that validates real
+   networking/socket behavior on Android rather than just packaging/compilation.
+
+6. **Fork-and-compile check** (fastest way to see *why* Android isn't a target, if it's ever attempted):
+   in a local clone, add `androidTarget()` + `id("com.android.library")` to the multiplatform blocks and
+   run `./gradlew :kotlin-sdk-client:compileDebugKotlinAndroid`. Any `expect`/`actual` gaps or
+   Android-unavailable JVM APIs surface immediately, without needing a sample app at all.
+
+Steps 1 and 6 need no Android SDK/emulator and are cheap enough to run as part of routine research;
+steps 2–3 need only `compileSdk`/build-tools (no emulator); steps 4–5 are the ones worth reserving for
+an actual CI pipeline or a "does this really work at runtime" spot-check.
+
 ## Sources
 
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) — repository, `build.gradle.kts` files, `buildSrc/src/main/kotlin/mcp.multiplatform.gradle.kts`, `gradle/libs.versions.toml`
