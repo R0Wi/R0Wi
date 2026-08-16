@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
-- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (1 week ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
+- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (2 weeks ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (2 months ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v34.0.2](https://github.com/nextcloud/server/releases/tag/v34.0.2), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/server](https://github.com/nextcloud/server) ([v32.0.14](https://github.com/nextcloud/server/releases/tag/v32.0.14), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.34.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.34.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.0), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 1 month ago) - 📘 Nextcloud documentation
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 2 months ago) - 📘 Nextcloud documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.5](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.5), 2 months ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.34.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.34.0), 2 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
 - [nextcloud/app_api](https://github.com/nextcloud/app_api) ([v3.2.0](https://github.com/nextcloud/app_api/releases/tag/v3.2.0), 2 years ago) - Nextcloud AppAPI
@@ -45,7 +45,7 @@
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) -  (1 year ago)
 - [joohoi/acme-dns-certbot-joohoi](https://github.com/joohoi/acme-dns-certbot-joohoi) - Certbot client hook for acme-dns (1 year ago)
 - [acme-dns/acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. (1 year ago)
-- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (1 year ago)
+- [nextcloud/app_api](https://github.com/nextcloud/app_api) - Nextcloud AppAPI (2 years ago)
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server (2 years ago)
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB (2 years ago)
 
