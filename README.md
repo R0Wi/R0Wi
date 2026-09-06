@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
-- [R0Wi/mcp-gateway](https://github.com/R0Wi/mcp-gateway) - A lightweight, self-hosted MCP aggregator gateway (2 days ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
+- [R0Wi/mcp-gateway](https://github.com/R0Wi/mcp-gateway) - A lightweight, self-hosted MCP aggregator gateway (6 days ago)
 - [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (1 month ago)
 - [R0Wi/ESP32-Led-Strip](https://github.com/R0Wi/ESP32-Led-Strip) -  (1 month ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (3 months ago)
-- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (3 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 months ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (3 months ago)
-- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (7 months ago)
+- [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release (3 months ago)
+- [R0Wi/R0Wi.github.io](https://github.com/R0Wi/R0Wi.github.io) - Source for https://r0wi.github.io (8 months ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (8 months ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v35.0.0rc2](https://github.com/nextcloud/server/releases/tag/v35.0.0rc2), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
-- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.35.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.35.0), 4 days ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.1), 1 week ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
+- [nextcloud/server](https://github.com/nextcloud/server) ([v32.0.15rc1](https://github.com/nextcloud/server/releases/tag/v32.0.15rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.35.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.35.0), 1 week ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.34.1](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.34.1), 2 weeks ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.34.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.34.0), 2 months ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) ([v34.0.0](https://github.com/nextcloud/documentation/releases/tag/v34.0.0), 2 months ago) - 📘 Nextcloud documentation
 - [R0Wi/nextcloud-appstore-push-action](https://github.com/R0Wi/nextcloud-appstore-push-action) ([v1.0.5](https://github.com/R0Wi/nextcloud-appstore-push-action/releases/tag/v1.0.5), 3 months ago) - Automatically publishes a new app version in the Nextcloud appstore after you created a new Github release
