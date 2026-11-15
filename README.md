@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (today)
-- [R0Wi/mcp-gateway](https://github.com/R0Wi/mcp-gateway) - A lightweight, self-hosted MCP aggregator gateway (4 days ago)
-- [DHBW-VS-Vert-Sys/S3VL04-Datenbanken](https://github.com/DHBW-VS-Vert-Sys/S3VL04-Datenbanken) - Repo zu S3 VL04: Übungen zu MySQL und MongoDB (4 days ago)
-- [DHBW-VS-Vert-Sys/S3VL03-MQTT](https://github.com/DHBW-VS-Vert-Sys/S3VL03-MQTT) - Repo zu S3 VL03: Mqtt Übung (1 week ago)
+- [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside. (1 day ago)
+- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (2 days ago)
+- [DHBW-VS-Vert-Sys/S3VL05-Frontend](https://github.com/DHBW-VS-Vert-Sys/S3VL05-Frontend) - Repo zu S3 VL05: Frontend in verteilten Systemen (6 days ago)
+- [R0Wi/mcp-gateway](https://github.com/R0Wi/mcp-gateway) - A lightweight, self-hosted MCP aggregator gateway (1 week ago)
+- [DHBW-VS-Vert-Sys/S3VL04-Datenbanken](https://github.com/DHBW-VS-Vert-Sys/S3VL04-Datenbanken) - Repo zu S3 VL04: Übungen zu MySQL und MongoDB (1 week ago)
+- [DHBW-VS-Vert-Sys/S3VL03-MQTT](https://github.com/DHBW-VS-Vert-Sys/S3VL03-MQTT) - Repo zu S3 VL03: Mqtt Übung (2 weeks ago)
 - [R0Wi/oauth-client-tester](https://github.com/R0Wi/oauth-client-tester) - OAuth Client Tester Application based on FastAPI (1 month ago)
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images) (1 month ago)
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr (2 months ago)
-- [R0Wi/stiebel-eltron-heatpump-gateway](https://github.com/R0Wi/stiebel-eltron-heatpump-gateway) - REST API gateway for Stiebel Eltron heat pumps — expose serial protocol over HTTP for openHAB, Home Assistant, and beyond. (3 months ago)
 - [R0Wi/ESP32-Led-Strip](https://github.com/R0Wi/ESP32-Led-Strip) -  (4 months ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.11rc1](https://github.com/nextcloud/server/releases/tag/v33.0.11rc1), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/server](https://github.com/nextcloud/server) ([v33.0.11](https://github.com/nextcloud/server/releases/tag/v33.0.11), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/files_photospheres](https://github.com/nextcloud/files_photospheres) ([v1.35.0](https://github.com/nextcloud/files_photospheres/releases/tag/v1.35.0), 1 month ago) - Nextcloud app for viewing Google PhotoSphere 360° images (panorama-images)
 - [R0Wi-DEV/workflow_ocr](https://github.com/R0Wi-DEV/workflow_ocr) ([v1.35.0](https://github.com/R0Wi-DEV/workflow_ocr/releases/tag/v1.35.0), 1 month ago) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [R0Wi-DEV/workflow_ocr_backend](https://github.com/R0Wi-DEV/workflow_ocr_backend) ([v1.35.0](https://github.com/R0Wi-DEV/workflow_ocr_backend/releases/tag/v1.35.0), 2 months ago) - Alternative backend for https://github.com/R0Wi-DEV/workflow_ocr
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 weeks ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 weeks ago)
 - [H2CK/oidc](https://github.com/H2CK/oidc) - OpenID Connect App for Nextcloud (1 month ago)
 - [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) - Wireshark-MCP，Give your AI assistant a packet analyzer. Drop a .pcap file, ask questions in plain English — get answers backed by real tshark data. (1 month ago)
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling (8 months ago)
